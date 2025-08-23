@@ -24,7 +24,7 @@ The VMMM maps maturity across five levels (1–5), while also grouping domains i
 
 | File / Folder | Description |
 |---------------|-------------|
-| **VMMM.xlsx** | The core Vulnerability Management Maturity Model spreadsheet, including domain scores, level definitions, and classification (Foundational, Enhanced, Strategic). |
+| **VM Maturity Model v2.xlsx** | The core Vulnerability Management Maturity Model spreadsheet, including domain scores, level definitions, and classification (Foundational, Enhanced, Strategic). |
 | **VMMM Companion Guide.pdf** | Detailed descriptions for each domain, including its purpose, scope, and assessment considerations. |
 | **Examples and Use Cases for the VMMM Domains and Categories.pdf** | Real-world scenarios and sample maturity indicators to help organizations assess and interpret their VM capabilities. |
 | **README.md** | This file — explains how to use the model and get involved. |

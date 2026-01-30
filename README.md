@@ -21,6 +21,23 @@ VMMM is intended to be:
 The model is designed for use by enterprises, consultants, educators, researchers, and vendors.
 
 ---
+## Repository Structure
+
+This repository is organized to separate canonical model content, supporting materials, and reference mappings.
+
+- `/canon`  
+  Authoritative, versioned VMMM v2 documents, including the canonical model, companion guide, and examples.
+
+- `/mappings`  
+  Framework alignment and mapping artifacts (e.g., NIST, ISO, CIS), intended to support adoption and interpretation.
+
+- `/assessments`  
+  Assessment methodology, scoring philosophy, and related materials.
+
+- Root files (`README.md`, `LICENSE.md`, `VERSION`, etc.)  
+  Governance, licensing, and release metadata.
+  
+---  
 
 ## What VMMM Is (and Is Not)
 

@@ -3,6 +3,11 @@
 **Current version:** v2.0.0  
 **Release date:** 2026-01-29
 
+**Canonical documentation:** [https://zenzizensec.com/vmmm](https://zenzizensec.com/vmmm)  
+**Free assessment tool:** [https://zenzizensec.com/vmmm](https://zenzizensec.com/vmmm)  
+**Maintained by:** [ZenzizenSec Inc.](https://zenzizensec.com) | [Jonathan Risto](https://www.linkedin.com/in/jonathanristo)
+
+
 The **Vulnerability Management Maturity Model (VMMM)** is a reference-based maturity model designed to help organizations assess, understand, and improve their vulnerability management capabilities.
 
 VMMM provides a structured way to evaluate VM maturity across lifecycle phases, domains, and categories, enabling consistent assessment, prioritization, and improvement planning across organizations and industries.
@@ -213,7 +218,12 @@ The model is intended to remain open, stable, and broadly usable while preservin
 
 ---
 
-## Contact
+## Resources
 
-For licensing or trademark inquiries only:  
-**license@zenzizensec.com**
+## Resources
+
+- **Website:** [https://zenzizensec.com/vmmm](https://zenzizensec.com/vmmm)
+- **Free Assessment:** [https://zenzizensec.com/vmmm](https://zenzizensec.com/vmmm)
+
+For licensing or trademark inquiries:  
+**[license@zenzizensec.com](mailto:license@zenzizensec.com)**

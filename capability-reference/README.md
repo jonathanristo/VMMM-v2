@@ -79,7 +79,7 @@ Frameworks evolve independently, and organizations remain responsible for their 
 ## Structure of This Directory
 
 Artifacts are organized by **VMMM phase** to reflect how maturity is assessed and governed in practice:
-mappings/
+capability-reference/
 ├── prepare/
 ├── identify/
 ├── analyze/

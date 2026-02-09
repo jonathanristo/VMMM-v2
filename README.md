@@ -33,7 +33,7 @@ This repository is organized to separate canonical model content, supporting mat
 - `/canon`  
   Authoritative, versioned VMMM v2 documents, including the canonical model, companion guide, and examples.
 
-- `/mappings`  
+- `/capability-reference`  
   Framework alignment and mapping artifacts (e.g., NIST, ISO, CIS), intended to support adoption and interpretation.
 
 - `/assessments`  
